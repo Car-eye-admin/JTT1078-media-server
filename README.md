@@ -10,3 +10,22 @@ JTT1078 协议是基于JT808协议制定的车载视频标准。这个协议采�
 
 一个通常的视频平台通常由下面框架构成：
 
+
+商业合作
+Car-eye-device 商业用户需要鉴权，具体请联系团队管理人员
+
+扫描二维码下载
+
+
+联系我们
+car-eye 开源官方网址：www.car-eye.cn  
+
+car-eye 流媒体平台网址：www.liveoss.com 
+
+car-eye 技术官方邮箱: support@car-eye.cn
+
+car-eye技术交流QQ群: 590411159      
+
+
+
+CopyRight©  car-eye 开源团队 2018
