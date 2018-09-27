@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configures>
+    <Server_ip>www.car-eye.cn</Server_ip>
+    <Server_Port>10085</Server_Port>
+    <Linsten_Port>9100</Linsten_Port>
+    <Http_Port>8090</Http_Port>
+    <Send_Port>1008</Send_Port>
+    <Protocol>rtmp</Protocol>
+    <Application>live</Application>
+    <Audio_channel>1</Audio_channel>
+    <Audio_SampleRate>8000</Audio_SampleRate>
+    <RTMP_KEY>K31r(sLSkrKS%sKq2q2r28Kq2q(Rjs(qJVkqHQir16j{L{2{J{irjsKshSKSiRgsKSisK7A</RTMP_KEY>
+</configures>
